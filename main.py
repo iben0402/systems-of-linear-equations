@@ -78,5 +78,5 @@ if __name__ == '__main__':
 
     # Jacobi
 
-    
-    print(residuum_norm(A, x, b))
+
+
