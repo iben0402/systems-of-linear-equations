@@ -76,7 +76,22 @@ if __name__ == '__main__':
                 A[i][i + 2] = a3
         b[i][0] = math.sin(i * (f + 1))
 
-    # Jacobi
+    # ZADANIE A
+    # TODO: implement Jacobi, count iterations (10**-9), count time
 
+    # ZADANIE B
+    # TODO: implement Gauss Seidel, count iterations (10**-9), count time
+
+    # ZADANIE C
+    # TODO: change A values
+
+    # ZADANIE D
+    # TODO: implement LU, try for C example, calculate norm
+
+    # ZADANIE E
+    # TODO: diagram of time for different N = {100, 500, 1000, 2000, 3000} for A matrix
+
+    # ZADANIE F
+    # TODO: sprawozdanie
 
 
