@@ -58,7 +58,7 @@ def residuum_norm(A, x, b):
 if __name__ == '__main__':
 
     # inicialization of variables
-    N = 9 * 9 * 3
+    N = 900 + 10 * 9 + 3
     a1 = 5 + 5
     a2 = a3 = -1
     f = 8
